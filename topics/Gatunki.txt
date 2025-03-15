@@ -17,8 +17,8 @@ Saponaria officinalis;mydlnica lekarska|
 Achyranthes bidentata;grzebyk dwuzębny|
 Fagopyrum esculentum;gryka zwyczajny|
 Polygonum multiflora;rdest wielokwiatowy|
-Persicaria orientalis;rdest wschodni|
-Persicaria bistorta;rdest wężownik|
+Polygonum orientale;rdest wschodni|
+Polygonum bistorta;rdest wężownik|
 Polygonum aviculare;rdest ptasi|
 Polygonum cuspidatum;rdest japoński|
 Rheum palmatum;rzewień dłoniasty|
