@@ -1,4 +1,4 @@
-lliciaceae;Illicium verum|
+lliciaceae;llicium verum|
 Schisandraceae;Schisandra chinensis|
 Magnoliaceae;Magnolia officinalis|
 Magnoliaceae;Magnolia biondii|
