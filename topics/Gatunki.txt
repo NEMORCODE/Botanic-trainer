@@ -8,7 +8,7 @@ Clematis armandii;powojnik Armanda|
 Hydrastis canadensis;gorzknik kanadyjski|
 Chelidonium majus;glistnik jaskółcze ziele|
 Fumaria officinalis;dymnica pospolita|
-Papaver somniferum;mak lekarski |
+Papaver somniferum;mak lekarski|
 Papaver rhoeas;mak polny|
 Corydalis yanhusuo;kokorycz|
 Asarum europaeum;kopytnik europejski|
