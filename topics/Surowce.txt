@@ -1,0 +1,40 @@
+Anisi stellati fructus;owoc anyżu gwiaździstego
+Anisi stellati aetheroleum;olejek eteryczny anyżu gwiaździstego
+Schisandrae chinensis fructu;owoc cytryńca chińskiego 
+Magnoliae officinalis cortex;kora magnolii lekarskiej
+Magnoliae officinalis flos;kwiat magnolii lekarskiej
+Magnoliae biondii flos immaturus;pąki kwiatowe magnolii Bionda
+Cimicifugae rhizoma;kłącze pluskwicy
+Coptidis rhizoma;kłącze złotnicy
+Hydrastis rhizoma;kłącze gorzknika
+Chelidonii herba;ziele glistnika
+Fumariae herba;ziele dymnicy
+Opium crudum;surowe opium
+Corydalis rhizoma;kłącze kokoryczy
+Herniariae herba;ziele połonicznika
+Saponariae radix;korzeń mydlnicy
+Achyranthis bidentatae radix;korzeń grzebyka dwuzębnego
+Polygoni multiflori radix;korzeń rdestu wielokwiatowego
+Bistortae rhizoma;kłącze rdestu wężownika
+Polygoni avicularis herba;ziele rdestu ptasiego
+Polygoni cuspidati rhizoma;kłącze rdestu japońskiego
+Polygoni cuspidati radix;korzeń rdestu japońskiego
+Rhei radix;korzeń rzewienia
+Visci herba;ziele jemioły
+Quercus cortex;kora dębu
+Betulae folium;liść brzoz
+Salicis cortex;kora wierzby
+Urticae folium;liść pokrzywy
+Lupuli flos;szyszka chmielu
+Agrimoniae herba;ziele rzepiku
+Crataegi folium;liść głogu
+Crataegi flore;kwiat głogu
+Crataegi fructus;owoc głogu
+Filipendulae ulmariae herba;ziele wiązówki
+Tormentillae rhizoma;kłącze pięciornika
+Pruni africanae cortex;kora śliwy afrykańskiej
+Amygdalae oleum raffinatum;olej migdałowy oczyszczony
+Amygdalae oleum virginale;olej migdałowy pierwszego tłoczenia
+Rosae pseudo-fructus;owoc róży
+Sanguisorbae radix;korzeń krwiściągu
+Frangulae cortex;kora kruszyny
