@@ -1,5 +1,5 @@
 Illiciaceae;Illicium verum|
-Schisandraceae; Schisandra chinensis|
+Schisandraceae;Schisandra chinensis|
 Magnoliaceae;Magnolia officinalis|
 Magnoliaceae;Magnolia biondii|
 Ranunculaceae;Cimicifuga racemosa|
