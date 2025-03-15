@@ -15,7 +15,7 @@ Asarum europaeum;kopytnik europejski|
 Herniaria glabra;połonicznik nagi|
 Saponaria officinalis;mydlnica lekarska|
 Achyranthes bidentata;grzebyk dwuzębny|
-Fagopyrum esculentum;gryka zwyczajn|
+Fagopyrum esculentum;gryka zwyczajny|
 Polygonum multiflora;rdest wielokwiatowy|
 Persicaria orientalis;rdest wschodni|
 Persicaria bistorta;rdest wężownik|
