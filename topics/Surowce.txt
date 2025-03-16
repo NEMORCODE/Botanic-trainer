@@ -27,6 +27,30 @@ Salicis cortex;kora wierzby|
 Urticae folium;liść pokrzywy|
 Lupuli flos;szyszka chmielu|
 Agrimoniae herba;ziele rzepiku|
+Atropae belladonnae radix;Korzeń pokrzyku wilczej jagody|
+Solani amylum;Skrobia ziemniaczana|
+Tritici amylum;Skrobia pszeniczna|
+Taraxaci officinalis radix;Korzeń mniszka lekarskiego|
+Ricini oleum raffinatum;Olej rycynowy oczyszczony|
+Daturae stramonii folium;Liść bielunia dziędzierzawy|
+Dianthi folium;Liść goździka|
+Convolvuli arvensis folium;Liść powoju polnego|
+Convallariae majalis folium;Liść konwalii majowej|
+Equiseti arvensis folium;Liść skrzypu polnego|
+Althaeae folium;Liść prawoślazu lekarskiego|
+Malvae sylvestris folium;Liść ślazu dzikiego|
+Farfarae folium;Liść podbiału pospolitego|
+Artemisiae absinthii folium;Liść bylicy piołunu|
+Digitalis purpureae folium;Liść naparstnicy purpurowej|
+Lavandulae flos;Kwiat lawendy|
+Matricariae flos;Kwiat rumianku pospolitego|
+Betulae folium;Liść brzozy brodawkowatej|
+Lauri folium;Liść wawrzynu szlachetnego|
+Hyperici folium;Liść dziurawca zwyczajnego|
+Levistici radix;Korzeń lubczyku ogrodowego|
+Foeniculi fructus;Owoc kopru włoskiego|
+Pimpinellae fructus;Owoc biedrzeńca anyżu|
+Taraxaci radix;Korzeń mniszka lekarskiego|
 Crataegi folium;liść głogu|
 Crataegi flore;kwiat głogu|
 Crataegi fructus;owoc głogu|
