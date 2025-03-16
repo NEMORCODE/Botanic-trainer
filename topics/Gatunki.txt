@@ -47,3 +47,28 @@ Rosa canina;róża dzika|
 Rubus fruticosus;jeżyna fałdowana|
 Sanguisorba officinalis;krwiściąg lekarski|
 Rhamnus frangula;kruszyna pospolita|
+Triticum vulgare;pszenica zwyczajna|
+Solanum tuberosum;ziemniak|
+Taraxacum officinale;mniszek lekarski|
+Ricinus communis;rącznik pospolity|
+Allium cepa;cebula zwyczajna|
+zebrina pendula;pasiatka zwisła|
+atropa belladonna;pokrzyk wilcza jagoda|
+datarum stramonium;bieluń dziędzierzawa|
+dianthus caryophyllaceae;goździk|
+convolvulus arvensis;powój polny|
+convallaria majalis;konwalia majowa|
+equisetum arvense;skrzyp polny|
+althea officinalis;prawoślaz lekarski|
+malva sylvesris;ślaz dziki|
+tussilago farfara;podbiał pospolity|
+artemisia absinthium;bylica piołun|
+digitalis purpurea;naparstnica purpurowa|
+lavandula officinalis;lawenda lekarska|
+matriacaria recutita;rumianek pospolity|
+lauris nobilis;wawrzyn szlachetny|
+hypericum perforatum;dziurawiec zwyczajny|
+levisticum officinale;lubczyk ogrodowy|
+foeniculum vulgare;koper włoski|
+pimpinella anisum;biedrzeniec anyż|
+taraxacum officinale;mniszek pospolity|
